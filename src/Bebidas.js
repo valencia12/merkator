@@ -13,7 +13,7 @@ function Bebidas() {
             <div className="landingp1">
                 <img className="tapitas1" alt="merkato" src={vino1} />
                 <br /><br />
-                <p>BLENDED</p>
+                
                 <p>Buchanan's 12 años 6/9/78</p>
                 <p className="margintext">Old Parr 12 años 7/12/84</p>
                 <p>Chivas Regal 12 años 6/10/88</p>
