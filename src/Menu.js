@@ -14,7 +14,7 @@ function Menu() {
         <div className="App">
             <div className="landingp">
                 <img className="tapitas1" alt="merkato" src={tapitas} />
-                <p>·TAPAS·</p>
+                <p>·TAPAS·</p><br></br><br></br>
                 <p>Pulpo a la gallega y yuca 10</p>
                 <p className="margintext">Tostada de camarones aguachile y escabeche de <br />zanahoria, cebolla y elote 9</p>
                 <p>Hummus con tostadas o zanahoria 8</p>
