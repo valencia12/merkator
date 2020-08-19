@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import Merkato from './Merkato';
 import Menu from './Menu';
-import Tapas from './Tapas';
 import Bebidas from './Bebidas';
 import Postres from './Postres';
-
+import Secciones from './Secciones';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 import NavBar from './component/Nav/Navbar';
@@ -23,9 +22,10 @@ class App extends Component {
             <Switch>
               <Route path="/" exact component={Merkato} />
               <Route path="/Tapas" component={Menu} />
-              <Route path="/Tapas" component={Tapas} />
               <Route path="/Bebidas" component={Bebidas} />
               <Route path="/Postres" component={Postres} />
+              <Route path="/Secciones" component={Secciones} />
+              
             </Switch>
           </div>
 

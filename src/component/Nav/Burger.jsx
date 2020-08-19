@@ -87,6 +87,11 @@ const Burger = () => {
             setOpen(false);
           }}>Home</li>
         </Link>
+        <Link to='/Secciones'>
+          <li onClick={() => {
+            setOpen(false);
+          }}>Secciones</li>
+        </Link>
         <Link to='/Tapas'>
           <li onClick={() => {
             setOpen(false);

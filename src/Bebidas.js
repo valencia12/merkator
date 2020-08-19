@@ -12,7 +12,7 @@ function Bebidas() {
         <div className="App">
             <div className="landingp1">
                 <img className="tapitas1" alt="merkato" src={vino1} />
-                <br /><br /><br /><br /><br /><br />
+                <br /><br /><br /><br /><br /><br/>
                 
                 <p>Buchanan's 12 años 6/9/78</p>
                 <p className="margintext">Old Parr 12 años 7/12/84</p>
