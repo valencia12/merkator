@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "champagne limousines";
+  src: url("./font/champagne.ttf");
+}
+p {
+  font-family: "champagne limousines";
+  font-weight: bold;
+}
+.App {
+  text-align: center;
+}
+.tapitas1 {
+  max-width: 100%;
+  width: 11%;
+}
+@media only screen and (max-width: 414px) {
+  body {
+    background-color: white;
+    text-align: justify;
+    padding: 7%;
+  }
+
+  .logo1 {
+    margin-bottom: -73%;
+    margin-left: 20%;
+  }
+  .tapitas1 {
+    max-width: 100%;
+    width: 45%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: white;
+    text-align: justify;
+    padding: 7%;
+  }
+
+  .logo1 {
+    margin-bottom: -73%;
+    margin-left: 20%;
+  }
+  .tapitas1 {
+    max-width: 100%;
+    width: 38%;
+  }
+}
