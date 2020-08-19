@@ -1,6 +1,7 @@
 import React from 'react';
-import logo from './assets/1m.png';
+import logo from './assets/index.png';
 import { Link } from 'react-router-dom';
+ 
 import './App.css';
 
 function Merkato() {

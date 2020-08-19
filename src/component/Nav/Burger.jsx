@@ -90,7 +90,7 @@ const Burger = () => {
         <Link to='/Secciones'>
           <li onClick={() => {
             setOpen(false);
-          }}>Secciones</li>
+          }}>Menús</li>
         </Link>
         <Link to='/Tapas'>
           <li onClick={() => {
@@ -105,7 +105,7 @@ const Burger = () => {
         <Link to='/Postres'>
           <li onClick={() => {
             setOpen(false);
-          }}>Postres</li>
+          }}>Café y Postres</li>
         </Link>
       </Ul>
     </>
