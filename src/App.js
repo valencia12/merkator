@@ -18,17 +18,17 @@ class App extends Component {
 
         <Router>
           <NavBar></NavBar>
-            <div className="App">
-            
-              <Switch>
-                <Route path="/" exact component={Merkato} />
-                <Route path="/Tapas" component={Menu} />
-                <Route path="/Tapas" component={Tapas} />
-                <Route path="/Bebidas" component={Bebidas} />
-                <Route path="/Postres" component={Postres} />
-              </Switch>
-            </div>
-           
+          <div className="App">
+
+            <Switch>
+              <Route path="/" exact component={Merkato} />
+              <Route path="/Tapas" component={Menu} />
+              <Route path="/Tapas" component={Tapas} />
+              <Route path="/Bebidas" component={Bebidas} />
+              <Route path="/Postres" component={Postres} />
+            </Switch>
+          </div>
+
         </Router>
       </>
     );
