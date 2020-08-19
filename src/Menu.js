@@ -7,13 +7,23 @@ import panes from './assets/panes.png'
 import tacos from './assets/tacos.png';
 import madehome from './assets/delacasa.png';
 import tapitas from './assets/tapas.png';
+import arrow from './assets/1.png';
+import { Link } from 'react-router-dom';
 import './App.css';
 
 function Menu() {
     return (
         <div className="App">
+            <div className="flecharr">
+            <Link to="/Secciones">
+            <img className="flecha" alt="merkato" src={arrow} />
+            </Link>
+            </div>
             <div className="landingp">
+                
                 <img className="tapitas1" alt="merkato" src={tapitas} />
+                
+
                 <br></br><br></br><br></br><br></br><br></br><p>·TAPAS·</p>
                 <p>Pulpo a la gallega y yuca 10</p>
                 <p className="margintext">Tostada de camarones aguachile y escabeche de <br />zanahoria, cebolla y elote 9</p>

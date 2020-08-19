@@ -5,12 +5,20 @@ import vino4 from './assets/vino4.png';
 import vino5 from './assets/vino5.png';
 import vino6 from './assets/vino6.png';
 import vino7 from './assets/vino7.png';
+import arrow from './assets/1.png';
+import { Link } from 'react-router-dom';
 import './App.css';
 
 function Bebidas() {
     return (
         <div className="App">
-            <div className="landingp1">
+            <br></br><br></br><br></br><br></br>
+            <div className="flechar">
+            <Link to="/Secciones">
+            <img className="flecha" alt="merkato" src={arrow} />
+            </Link>
+            </div>
+            <div className="landingp11">
                 <img className="tapitas1" alt="merkato" src={vino1} />
                 <br /><br /><br /><br /><br /><br/>
                 
