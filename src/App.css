@@ -10,8 +10,14 @@ p {
   text-align: center;
 }
 .tapitas1 {
-  margin-bottom: -25%;
+  margin-bottom: -7%;
   width: 15%;
+}
+.logosm {
+  width: 25%;
+}
+.flecha {
+  width: 5%;
 }
 @media only screen and (max-width: 414px) {
   body {
@@ -28,6 +34,10 @@ p {
   .tapitas1 {
     max-width: 100%;
     width: 45%;
+  }
+
+  .logosm {
+    width: 100%;
   }
 }
 

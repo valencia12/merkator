@@ -24,7 +24,7 @@ function Menu() {
                 <img className="tapitas1" alt="merkato" src={tapitas} />
                 
 
-                <br></br><br></br><br></br><br></br><br></br><p>·TAPAS·</p>
+                <br></br><br></br><br></br><p>·TAPAS·</p>
                 <p>Pulpo a la gallega y yuca 10</p>
                 <p className="margintext">Tostada de camarones aguachile y escabeche de <br />zanahoria, cebolla y elote 9</p>
                 <p>Hummus con tostadas o zanahoria 8</p>

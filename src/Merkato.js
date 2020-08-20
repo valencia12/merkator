@@ -7,7 +7,7 @@ import './App.css';
 function Merkato() {
   return (
     <div className="App">
-      <Link to= "/">
+      <Link to= "/Secciones">
       <img className="logo1" src={logo} alt="merkato1" />
       </Link>
     </div>
