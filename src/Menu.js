@@ -74,7 +74,7 @@ function Menu() {
                 <p>Ensalada de quinoa y feta con atún sellado 14</p>
                 <p>Ensalada ceasar 10 *Adicional puedes agregar proteína Ensalada de pulpo y camote en quinoa con
                    aderezo asiático y cilantro 12</p>
-                <p>Nigiri de ahi tuna o Salmón 5</p>
+                
                 <p>Ensalada caprese de esparrágos y boconccini 9</p>
                 <p>Ensalada de pavo rostizado, garbanzos y elote chamuscado 9</p>
             </div>
@@ -94,7 +94,7 @@ function Menu() {
             <div className="landingp1">
                 <img className="tapitas12" alt="merkato" src={panes} />
                 <br /><br />
-                <p>Elige tu acompañamiento: Papas bravas, belgas, ensalada de frijoles o frescaMerkato club 10</p>
+                <p>Elige tu acompañamiento: Papas bravas, belgas, ensalada de frijoles o fresca Merkato club 10</p>
                 <p>Grilled cheese con tomate y tocino caramelizado 9</p>
                 <p>Pavo, tocino y aguacate 10</p>
                 <p>Pavo rostizado y queso suizo 11</p>
