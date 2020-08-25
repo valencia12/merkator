@@ -5,7 +5,9 @@ import vino4 from './assets/vino4.png';
 import vino5 from './assets/vino5.png';
 import vino6 from './assets/vino6.png';
 import vino7 from './assets/vino7.png';
+import vino8 from './assets/vino8.png';
 import arrow from './assets/1.png';
+import bebidas from './assets/bebidas.png';
 import { Link } from 'react-router-dom';
 import './App.css';
 
@@ -19,8 +21,98 @@ function Bebidas() {
             </Link>
             </div>
             <div className="landingp11">
+                <img className="tapitas1" alt="merkato" src={bebidas} />
+                <br /><br /><br /><br />
+                <p>Agua natural 2</p>
+                <p>Aqua Panna 3</p>
+                <p>Sodas 2</p>
+                <p>Té helado 3</p>
+                <p>Frozens o licuados 3</p>
+                <p>Jugo de tomate preparado 3</p>
+                <p>San Pellegrino 250 ml 4</p>
+                <p>San Pellegrino 505 ml 5</p>
+                <p>San Pellegrino sabores 4</p>
+                <p>Mayakua 5</p>
+                <p>Tribe Kombucha sabores 5</p>
+                <p>Icono de copa con toronja y romero</p>
+
+
+
+            </div>
+            <div className="landingp1">
+                <img className="tapitas12" alt="merkato" src={vino7} />
+                <br /><br />
+                <p>Gin martini 6</p>
+                <p>Old fashioned 8</p>
+                <p>Manhattan 8</p>
+                <p>Margarita 6</p>
+                <p>Mojito 5</p>
+                <p>Carajillo 7</p>
+                <p>Sangría 5</p>
+                <p>Aperol Spritz 7</p>
+                <p>Negroni 7</p>
+                <p>Moscow Mule 7</p>
+                <p>HANDCRAFTED</p>
+                <p>Gingibre 9</p>
+                <p>Mad Thai 7</p>
+                <p>Berry Martini 8</p>
+                <p>Italian Summer 7</p>
+                <p>La Botica 11</p>
+                <p>Sangría Merkato 8</p>
+                <p>Minuit 12</p>
+                <p>Cucumber Gin Mule 7</p>
+                <p>Pomelo Hot Margarita 8</p>
+                <p>Citrus Pear 7</p>
+            </div>
+            <div className="landingp11">
+                <img className="tapitas1" alt="merkato" src={vino8} />
+                <p>VODKA</p>
+                <p>Grey Goose 6/10/78</p>
+                <p>Ketel One 4/7/40</p>
+                <p>Tito’s 5/8/59</p>
+                <p>RON</p>
+                <p>Zacapa 23 6/10/83</p>
+                <p>Zacapa 12 5/8/56</p>
+                <p>Bacardi Oakheart 4/7/46</p>
+                <p>Flor de Caña 12 5/8/72</p>
+                <p>GINEBRA</p>
+                <p>Gin Masters 4/7</p>
+                <p>Bulldog 5/8/67</p>
+                <p>Hendricks 6/10/87</p>
+                <p>Beefeater 5/8/54</p>
+                <p>Bombay 4/7</p>
+                <p>Tribute 5/8/67</p>
+                <p>MEZCAL</p>
+                <p>Jóven Espadin</p>
+                <p>Reposado Espadin</p>
+                <p>TEQUILA</p>
+                <p>Don Julio Añejo 7/12/91</p>
+                <p>1800 Reposado 5/8/58</p>
+                <p>Jimador Reposado 4/7/53</p>
+                <p>José Cuervo Tradicional 5/8/63</p>
+                <p>Quitapenas 6/10/98</p>
+                <p>Herradura Ultra 7/12/114</p>
+                <p>APERITIVOS</p>
+                <p>Vermut Rosso 3/5</p>
+                <p>Fernet Branca 4/7</p>
+                <p>Campari 3/5</p>
+                <p>Aperol 3/5</p>
+                <p>DIGESTIVOS</p>
+                <p>Jagermeister 5/8/82</p>
+                <p>Amaretto Diaronno 3/5</p>
+                <p>Bailey’s 3/5</p>
+                <p>Frangelico 3/5</p>
+                <p>Sambuca 3/5</p>
+                <p>Licor 43 3/5</p>
+                <p>Chambord 4/7</p>
+                
+                
+
+
+            </div>
+            <div className="landingp11">
                 <img className="tapitas1" alt="merkato" src={vino1} />
-                <br /><br /><br /><br /><br /><br/>
+                <br /><br /><br /><br />
                 
                 <p>Buchanan's 12 años 6/9/78</p>
                 <p className="margintext">Old Parr 12 años 7/12/84</p>
@@ -209,31 +301,7 @@ function Bebidas() {
                 <p>Flor de Vetus Toro Tempranillo 6/33</p>
                 <p>Louis Martini Cab Sauvignon Sonoma 47</p>
             </div>
-            <div className="landingp1">
-                <img className="tapitas12" alt="merkato" src={vino7} />
-                <br /><br />
-                <p>Gin martini 6</p>
-                <p>Old fashioned 8</p>
-                <p>Manhattan 8</p>
-                <p>Margarita 6</p>
-                <p>Mojito 5</p>
-                <p>Carajillo 7</p>
-                <p>Sangría 5</p>
-                <p>Aperol Spritz 7</p>
-                <p>Negroni 7</p>
-                <p>Moscow Mule 7</p>
-                <p>HANDCRAFTED</p>
-                <p>Gingibre 9</p>
-                <p>Mad Thai 7</p>
-                <p>Berry Martini 8</p>
-                <p>Italian Summer 7</p>
-                <p>La Botica 11</p>
-                <p>Sangría Merkato 8</p>
-                <p>Minuit 12</p>
-                <p>Cucumber Gin Mule 7</p>
-                <p>Pomelo Hot Margarita 8</p>
-                <p>Citrus Pear 7</p>
-            </div>
+           
 
         </div>
     );

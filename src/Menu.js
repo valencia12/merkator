@@ -94,7 +94,7 @@ function Menu() {
             <div className="landingp1">
                 <img className="tapitas12" alt="merkato" src={panes} />
                 <br /><br />
-                <p>Elige tu acompañamiento: Papas bravas, belgas, ensalada de frijoles o fresca Merkato club 10</p>
+                <p>Elige tu acompañamiento: Papas bravas, belgas, ensalada de frijoles o fresca <br></br>Merkato club 10</p>
                 <p>Grilled cheese con tomate y tocino caramelizado 9</p>
                 <p>Pavo, tocino y aguacate 10</p>
                 <p>Pavo rostizado y queso suizo 11</p>
@@ -118,7 +118,7 @@ function Menu() {
             <div className="landingp1">
                 <img className="tapitas12" alt="merkato" src={madehome} />
                 <br /><br />
-                <p>Ravioles negros rellenos de langosta 19</p>
+                
                 <p>Ravioles rellenos de ragout toscano de hongos 17</p>
                 <p>Gnocchi dorados con salsa blanca o marinara 12</p>
                 <p>Risotto de pulpo y aceite de trufa 18</p>
