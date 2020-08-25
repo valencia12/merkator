@@ -68,7 +68,7 @@ function Postres() {
         <br /><br />
         <p>DE PEDASI CON AMORDETOX</p>
         <p>Té verde, lemongrass, hoja dehigo, piel de naranja, jengíbre, jazmín, menta, cardamomo, hierba de Santa María 3</p>
-        <p>¡HASTA MAÑANA!TISANA RELAJANTE</p>
+        <p>¡HASTA MAÑANA!</p>
         <p>Manzanilla,  jazmín, tilo, lavanda, hojas de naranja agria y menta 3</p>
         <p>INDIAN MASALA CHAI DIGESTIVO</p>
         <p>ENSAYO DE AMOR ANTIOXIDANTE</p>
