@@ -94,7 +94,8 @@ function Menu() {
             <div className="landingp1">
                 <img className="tapitas12" alt="merkato" src={panes} />
                 <br /><br />
-                <p>Elige tu acompañamiento: Papas bravas, belgas, ensalada de frijoles o fresca <br></br>Merkato club 10</p>
+                <p>Elige tu acompañamiento: Papas bravas, belgas, ensalada de frijoles o fresca </p>
+                <p>Merkato club 10</p>
                 <p>Grilled cheese con tomate y tocino caramelizado 9</p>
                 <p>Pavo, tocino y aguacate 10</p>
                 <p>Pavo rostizado y queso suizo 11</p>

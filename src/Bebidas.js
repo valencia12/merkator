@@ -34,7 +34,7 @@ function Bebidas() {
                 <p>San Pellegrino sabores 4</p>
                 <p>Mayakua 5</p>
                 <p>Tribe Kombucha sabores 5</p>
-                <p>Icono de copa con toronja y romero</p>
+                
 
 
 
