@@ -73,7 +73,7 @@ function Menu() {
                 <p>Ensalada Santa Fe con pollo a la plancha 11</p>
                 <p>Ensalada de quinoa y feta con atún sellado 14</p>
                 <p>Ensalada ceasar 10 </p>
-                <p>*Adicional puedes agregar proteína Ensalada de pulpo y camote en quinoa con
+                <p>*Adicional puedes agregar proteína <br></br><br></br>Ensalada de pulpo y camote en quinoa con
                    aderezo asiático y cilantro 12</p>
                 
                 <p>Ensalada caprese de esparrágos y boconccini 9</p>
